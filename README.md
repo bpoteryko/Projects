@@ -1,6 +1,15 @@
 # Main Title Test
 
 
+This is a wonderful website showcasing my various projects, a list of which is below:
+
+- Jitterbug
+- Roomba
+- Drone imaging projects
+- SAR UAV
+- Maybe the Blue Sky project, but I don't have a lot of data from way back then.
+- 253 Robot
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/bpoteryko/bpoteryko-projects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
