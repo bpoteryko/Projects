@@ -1,6 +1,3 @@
-# Main Title Test
-
-
 This is a wonderful website showcasing my various projects, a list of which is below:
 
 - Jitterbug
