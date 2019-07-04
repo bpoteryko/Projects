@@ -7,6 +7,21 @@ This is a wonderful website showcasing my various projects, a list of which is b
 - Maybe the Blue Sky project, but I don't have a lot of data from way back then.
 - 253 Robot
 
+
+
+Video test:
+
+```
+<video width="320" height="200" controls preload> 
+    <source src="roomba.mp4"></source> 
+    <source src="roomba.webm"></source> 
+</video>
+```
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/bpoteryko/bpoteryko-projects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
