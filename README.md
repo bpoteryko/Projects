@@ -10,7 +10,7 @@ This is a wonderful website showcasing my various projects, a list of which is b
 
 ## Drone-based Terrain Model Generation and Elevation Mapping
 
-As a project for 3vGeomatics in Spring 2017, I was a part of a three-man group working to utilize footage from a drone flyover i
+As a project for 3vGeomatics in Spring 2017, I was a part of a three-man group working to find a better method of producing elevation data of sites for geographic applications. We decided to utilize footage from a drone flyover to generate a 3D model of the area using photogrammetry.
 
 Our initial test run of the software utilized six screenshots from Google Maps' 3D terrain feature, and produced excellent results, as seen below.
 
@@ -22,6 +22,12 @@ Our initial test run of the software utilized six screenshots from Google Maps' 
     on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
 </p>
 </div>
+
+As can be seen, the software we utilized accurately captured the terrain and buildings in the test area. We were able to utilize a drone to take images of a cliff face near UBC, and translate that into a 3D model and elevation map, as seen below.
+
+[image]
+
+This process is much more accurate, flexible, and cheaper than relying on public domain elevation data or aircraft mapping runs. 3vGeomatics was very happy with our results and intended to use this process regularly in the future.
 
 ## Wire-following/Musical Robot
 
