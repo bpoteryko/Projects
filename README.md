@@ -11,7 +11,7 @@ This is a wonderful website showcasing my various projects, a list of which is b
 
 Video test:
 <center>
-<video width="1280" height="720" controls preload> 
+<video width="650" height="366" controls preload> 
     <source src="roomba.mp4"></source> 
     <source src="roomba.webm"></source> 
 </video>
