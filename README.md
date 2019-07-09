@@ -1,12 +1,3 @@
-This is a wonderful website showcasing my various projects, a list of which is below:
-
-- [x] Jitterbug
-- [x] Roomba
-- [x] Drone imaging projects
-- [ ] SAR UAV
-- [ ] 253 Robot
-
-
 ## Hallway-Navigating Roomba
 
 In Fall 2017, as a project for a robotics course, I worked with two others on modifying a Roomba iCreate development platform to navigate its way down a hallway, using only a camera and onboard image-processing software. 
@@ -49,11 +40,13 @@ This process is much more accurate, flexible, and cheaper than relying on public
 
 In Spring 2015, I was part of a group project to build and program a robot capable of following a wire. It accomplished this task by carrying several inductors on its underside, allowing it to sense the magnetic field coming off of the wire. The robot was powered by a custom microcontroller running C code, of which I helped contribute to, enabling our robot to be one of the fastest in the class, as seen below in its line-following.
 
+
 <center>
 <video width="650" height="366" controls preload> 
     <source src="pre-jitterbug.webm"></source> 
 </video>
 </center>
+
 
 In Summer 2017, as part of a personal project, I repurposed the chassis of the robot project into a more entertaining role, by implementing a piezo buzzer into its electronics, rewiring the robot to work off an Arduino, and writing additional code to allow the robot to 'sing' part of the song 'Wake Me Up Before You Go-Go', while moving to the beat. Precise timing control was required to allow the single instruction processing queue of the processor to allow for both sets of actions to occur. A video of the finalised product is below.
 
@@ -68,7 +61,7 @@ In Summer 2017, as part of a personal project, I repurposed the chassis of the r
 
 In Spring 2016, I worked with two other students as part of our ENPH 459 capstone project to design and construct an Unmanned Aerial Vehicle on behalf of InDro Robotics. They requested we create a vehicle which was capable of operating in situations of high rain and wind, in order to suppliment their search-and-rescue operations.
 
-We did (things)
+I performed extensive research on the design of the UAV's propulsion system, and concluded that a ducted fan setup would be most efficient. Limitations in the resources available to us meant modifications to the design were required, but the general idea of a ducted system was retained for both safety and a slight boost to performance.
 
 A video of one of the early flight tests is shown below.
 
@@ -80,7 +73,11 @@ A video of one of the early flight tests is shown below.
 
 ## Autonomous Artifact-Collecting Robot
 
-During Summer of 2014, I worked with a team of three others to design and construct a robot capable of detecting and collecting several artifacts, all while navigating an obstacle course. 
+[image] 
+
+During Summer of 2014, I worked with a team of three others to design and construct a robot from scratch. It had to be capable of detecting and collecting several artifacts, all while navigating an obstacle course. I focused primarily on the design of the chassis and mechanical grabber, and was instrumental in making the robot the lightest and fastest in the class.
+
+I primarily used Solidworks to design the various parts, and then utilized a laser cutter, waterjet cutter, and 3D printer to rapidly prototype the parts. We went through several iterations of the design, but ultimately wound up with a design which completed its objective extremely quickly.
 
 A video of the design, construction, testing, and presentation of the robot, made by fellow group member Zachary Morris is shown below.
 
