@@ -4,14 +4,16 @@ This is a wonderful website showcasing my various projects, a list of which is b
 - [x] Roomba
 - [x] Drone imaging projects
 - [ ] SAR UAV
-- 253 Robot
+- [ ] 253 Robot
 
 
 ## Hallway-Navigating Roomba
 
 In Fall 2017, as a project for a robotics course, I worked with two others on modifying a Roomba iCreate development platform to navigate its way down a hallway, using only a camera and onboard image-processing software. 
 
-To do this, we utilized a Raspberry Pi 2 running Python code to analyse an image of the hallway ahead of it, pick out the lines formed by the intersection of the hallway and the walls, then find the vanishing point of the hallway. From this, the robot could navigate itself down the hallway without a need for bump sensors and other methods of navigation. A video of it in action is below.
+To do this, we utilized a Raspberry Pi 2 running Python code to analyse an image of the hallway ahead of it, pick out the lines formed by the intersection of the hallway and the walls, then find the vanishing point of the hallway. From this, the robot could navigate itself down the hallway without a need for bump sensors and other methods of navigation. 
+
+A video of it in action is shown below. The robot is running entirely off of the Raspberry Pi; the laptop shown is solely providing power to the setup..
 
 <center>
 <video width="650" height="366" controls preload> 
@@ -19,6 +21,7 @@ To do this, we utilized a Raspberry Pi 2 running Python code to analyse an image
     <source src="roomba.webm"></source> 
 </video>
 </center>
+
 
 Additional navigation methods were planned for the robot, such as determining when it arrived at a corner, and mapping capabilities to allow it to find its way back 'home', but our team ran out of time in the semester to implement them all.
 
@@ -45,7 +48,14 @@ This process is much more accurate, flexible, and cheaper than relying on public
 
 [image of jitterbug]
 
-In Spring 2015, I was part of a group project to build and program a robot capable of following a wire. It accomplished this task by carrying several inductors on its underside, allowing it to sense the magnetic field coming off of the wire. The robot was powered by an Arduino board, and I contributed to the C-like code to enable our robot to be one of the fastest in the class.
+In Spring 2015, I was part of a group project to build and program a robot capable of following a wire. It accomplished this task by carrying several inductors on its underside, allowing it to sense the magnetic field coming off of the wire. The robot was powered by a custom microcontroller running C code, of which I helped contribute to, enabling our robot to be one of the fastest in the class, as seen below in its line-following.
+
+<center>
+<video width="650" height="366" controls preload> 
+    <source src="pre-jitterbug.mp4"></source> 
+    <source src="pre-jitterbug.webm"></source> 
+</video>
+</center>
 
 In Summer 2017, I repurposed the chassis of the robot project into a more entertaining role, by implementing a piezo buzzer into its electronics, and writing more Arduino code to allow the robot to 'sing' part of the song 'Wake Me Up Before You Go-Go', while moving to the beat. Precise timing control was required to allow the single instruction processing queue of the processor to allow for both sets of actions to occur. A video of the finalised product is below.
 
@@ -57,4 +67,25 @@ In Summer 2017, I repurposed the chassis of the robot project into a more entert
 </center>
 
 
+## Weatherproof Search and Rescue UAV
 
+In Spring 2016, I worked with two other students as part of our ENPH 459 capstone project to design and construct an Unmanned Aerial Vehicle on behalf of InDro Robotics. They requested we create a vehicle which was capable of operating in situations of high rain and wind, in order to suppliment their search-and-rescue operations.
+
+We did (things)
+
+A video of one of the early flight tests is shown below.
+
+<center>
+<video width="650" height="366" controls preload> 
+    <source src="drone.mp4"></source> 
+    <source src="drone.webm"></source> 
+</video>
+</center>
+
+## Autonomous Artifact-Collecting Robot
+
+During Summer of 2014, I worked with a team of three others to design and construct a robot capable of detecting and collecting several artifacts, all while navigating an obstacle course. 
+
+A video of the design, construction, testing, and presentation of the robot, made by fellow group member Zachary Morris is shown below.
+
+<iframe width="650" height="366" src="https://www.youtube-nocookie.com/embed/5J3dVUOgQlc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
