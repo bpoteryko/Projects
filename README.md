@@ -9,6 +9,22 @@ This is a wonderful website showcasing my various projects, a list of which is b
 
 
 
+
+## Wire-following/Musical Robot
+
+[image of jitterbug]
+
+In Spring 2015, I was part of a group project to build and program a robot capable of following a wire. It accomplished this task by carrying several inductors on its underside, allowing it to sense the magnetic field coming off of the wire. The robot was powered by an Arduino board, and I contributed to the C-like code to enable our robot to be one of the fastest in the class.
+
+In Summer 2017, I repurposed the chassis of the robot project into a more entertaining role, by implementing a piezo buzzer into its electronics, and writing more Arduino code to allow the robot to 'sing' part of the song 'Wake Me Up Before You Go-Go', while moving to the beat. Precise timing control was required to allow the single instruction processing queue of the processor to allow for both sets of actions to occur. A video of the finalised product is below.
+
+<center>
+<video width="650" height="366" controls preload> 
+    <source src="jitterbug.mp4"></source> 
+    <source src="jitterbug.webm"></source> 
+</video>
+</center>
+
 Video test:
 <center>
 <video width="650" height="366" controls preload> 
