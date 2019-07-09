@@ -8,7 +8,20 @@ This is a wonderful website showcasing my various projects, a list of which is b
 - 253 Robot
 
 
+## Drone-based Terrain Model Generation and Elevation Mapping
 
+As a project for 3vGeomatics in Spring 2017, I was a part of a three-man group working to utilize footage from a drone flyover i
+
+Our initial test run of the software utilized six screenshots from Google Maps' 3D terrain feature, and produced excellent results, as seen below.
+
+<div class="sketchfab-embed-wrapper"><iframe width="650" height="480" src="https://sketchfab.com/models/684fe805ccb546b6ad01d56f9e56f2e2/embed?camera=0" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+    <a href="https://sketchfab.com/3d-models/model-of-clock-tower-and-ikb-at-ubc-684fe805ccb546b6ad01d56f9e56f2e2?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Model of Clock Tower and IKB at UBC</a>
+    by <a href="https://sketchfab.com/BryanPoteryko?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">BryanPoteryko</a>
+    on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+</p>
+</div>
 
 ## Wire-following/Musical Robot
 
