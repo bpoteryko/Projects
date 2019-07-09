@@ -17,7 +17,6 @@ A video of it in action is shown below. The robot is running entirely off of the
 
 <center>
 <video width="650" height="366" controls preload> 
-    <source src="roomba.mp4"></source> 
     <source src="roomba.webm"></source> 
 </video>
 </center>
@@ -52,16 +51,14 @@ In Spring 2015, I was part of a group project to build and program a robot capab
 
 <center>
 <video width="650" height="366" controls preload> 
-    <source src="pre-jitterbug.mp4"></source> 
     <source src="pre-jitterbug.webm"></source> 
 </video>
 </center>
 
-In Summer 2017, I repurposed the chassis of the robot project into a more entertaining role, by implementing a piezo buzzer into its electronics, and writing more Arduino code to allow the robot to 'sing' part of the song 'Wake Me Up Before You Go-Go', while moving to the beat. Precise timing control was required to allow the single instruction processing queue of the processor to allow for both sets of actions to occur. A video of the finalised product is below.
+In Summer 2017, as part of a personal project, I repurposed the chassis of the robot project into a more entertaining role, by implementing a piezo buzzer into its electronics, rewiring the robot to work off an Arduino, and writing additional code to allow the robot to 'sing' part of the song 'Wake Me Up Before You Go-Go', while moving to the beat. Precise timing control was required to allow the single instruction processing queue of the processor to allow for both sets of actions to occur. A video of the finalised product is below.
 
 <center>
 <video width="650" height="366" controls preload> 
-    <source src="jitterbug.mp4"></source> 
     <source src="jitterbug.webm"></source> 
 </video>
 </center>
@@ -77,7 +74,6 @@ A video of one of the early flight tests is shown below.
 
 <center>
 <video width="650" height="366" controls preload> 
-    <source src="drone.mp4"></source> 
     <source src="drone.webm"></source> 
 </video>
 </center>
