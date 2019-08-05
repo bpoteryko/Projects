@@ -19,6 +19,7 @@ Additional navigation methods were planned for the robot, such as determining wh
 <!--We were inspired by a project from the Universidad del Valle, Cali, Colombia, in which they utilize a similar algorithm to detect the lines of the hallway and compute the logical way forward.
 
 <iframe width="650" height="480" src="https://www.youtube.com/embed/NC7mKUrJOE0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+<p style="margin-bottom:3cm;"></p>
 ## Drone-based Terrain Model Generation and Elevation Mapping
 
 As a project for 3vGeomatics in Spring 2017, I was a part of a three-man group working to find a better method of producing elevation data of sites for geographic applications. We decided to utilize footage from a drone flyover to generate a 3D model of the area using photogrammetry.
@@ -34,6 +35,7 @@ As can be seen, the software we utilized accurately captured the terrain and bui
 
 This process is much more accurate, flexible, and cheaper than relying on public domain elevation data or aircraft mapping runs. 3vGeomatics was very happy with our results and intended to use this process regularly in the future.
 
+<p style="margin-bottom:3cm;"></p>
 ## Wire-following/Musical Robot
 
 [image of jitterbug]
@@ -56,6 +58,7 @@ In Summer 2017, as part of a personal project, I repurposed the chassis of the r
 </video>
 </center>
 
+<p style="margin-bottom:3cm;"></p>
 
 ## Weatherproof Search and Rescue UAV
 
@@ -63,7 +66,15 @@ In Spring 2016, I worked with two other students as part of our ENPH 459 capston
 
 I performed extensive research on the design of the UAV's propulsion system, and concluded that a ducted fan setup would be most efficient. Limitations in the resources available to us meant modifications to the design were required, but the general idea of a ducted system was retained for both safety and a slight boost to performance.
 
-A video of one of the early flight tests is shown below.
+Below is an image of the chassis of the UAV, prior to the command and control (what's it called) hardware being attached. One can see the doubled-up triple propellor setup, as well as all six motor controllers.
+
+![sar1](sar1.png)
+
+Here is the completed UAV. It can be noted that we used cheap materials to make fabricating the cheap and easy. My contribution to the design were the 3D-printed components holding the propellors in place. We utilized carbon fibre rods for a light, yet sturdy connection.
+
+![sar2](sar2.png)
+
+A video of one of the early flight tests is shown below. Results from these test flights showed that more thrust was required, and we thus endeavoured to acquire a more powerful battery for future tests.
 
 <center>
 <video width="650" height="366" controls preload> 
@@ -71,6 +82,7 @@ A video of one of the early flight tests is shown below.
 </video>
 </center>
 
+<p style="margin-bottom:3cm;"></p>
 ## Autonomous Artifact-Collecting Robot
 
 ![artifact1](artifact1.png)
