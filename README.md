@@ -20,25 +20,34 @@ Additional navigation methods were planned for the robot, such as determining wh
 
 <iframe width="650" height="480" src="https://www.youtube.com/embed/NC7mKUrJOE0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 <p style="margin-bottom:3cm;"></p>
+
 ## Drone-based Terrain Model Generation and Elevation Mapping
 
-As a project for 3vGeomatics in Spring 2017, I was a part of a three-man group working to find a better method of producing elevation data of sites for geographic applications. We decided to utilize footage from a drone flyover to generate a 3D model of the area using photogrammetry.
+As a project for 3vGeomatics in Fall 2016, I was a part of a three-man group working to find a better method of producing elevation data of sites for geographic applications. We decided to utilize footage from a drone flyover to generate a 3D model of the area using photogrammetry.
 
 Our initial test run of the software utilized six screenshots from Google Maps' 3D terrain feature, and produced excellent results, as seen below.
 
 <div class="sketchfab-embed-wrapper"><iframe width="650" height="480" src="https://sketchfab.com/models/684fe805ccb546b6ad01d56f9e56f2e2/embed?camera=0" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
-As can be seen, the software we utilized accurately captured the terrain and buildings in the test area. We were able to utilize a drone to take images of a cliff face near UBC, and translate that into a 3D model and elevation map, as seen below.
+As can be seen, the software we utilized accurately captured the terrain and buildings in the test area. After more research and development was done, we were able to utilize a drone to take images of a cliff face near UBC, as seen below.
 
-[image]
+![djidrone1](djidrone1.png)
 
-This process is much more accurate, flexible, and cheaper than relying on public domain elevation data or aircraft mapping runs. 3vGeomatics was very happy with our results and intended to use this process regularly in the future.
+The footage from this run allowed us to make a 3D map of the region.
+
+![djidrone2](djidrone2.png)
+
+Lastly, this model allowed us to produce a Digital Elevation Model of the terrain, usable for geomatics work.
+
+![djidrone3](djidrone3.png)
+
+This process proved to be much more accurate, flexible, and cheaper than relying on public domain elevation data or aircraft mapping runs. 3vGeomatics was very happy with our results and intended to use this process regularly in the future.
 
 <p style="margin-bottom:3cm;"></p>
 ## Wire-following/Musical Robot
 
-[image of jitterbug]
+![jitterbug1](jitterbug1.jpg)
 
 In Spring 2015, I was part of a group project to build and program a robot capable of following a wire. It accomplished this task by carrying several inductors on its underside, allowing it to sense the magnetic field coming off of the wire. The robot was powered by a custom microcontroller running C code, of which I helped contribute to, enabling our robot to be one of the fastest in the class, as seen below in its line-following.
 
@@ -66,7 +75,7 @@ In Spring 2016, I worked with two other students as part of our ENPH 459 capston
 
 I performed extensive research on the design of the UAV's propulsion system, and concluded that a ducted fan setup would be most efficient. Limitations in the resources available to us meant modifications to the design were required, but the general idea of a ducted system was retained for both safety and a slight boost to performance.
 
-Below is an image of the chassis of the UAV, prior to the command and control (what's it called) hardware being attached. One can see the doubled-up triple propellor setup, as well as all six motor controllers.
+Below is an image of the chassis of the UAV, prior to installing the primary command and control hardware. One can see the doubled-up triple propellor setup, as well as all six motor controllers.
 
 ![sar1](sar1.png)
 
@@ -83,6 +92,7 @@ A video of one of the early flight tests is shown below. Results from these test
 </center>
 
 <p style="margin-bottom:3cm;"></p>
+
 ## Autonomous Artifact-Collecting Robot
 
 ![artifact1](artifact1.png)
