@@ -73,7 +73,7 @@ A video of one of the early flight tests is shown below.
 
 ## Autonomous Artifact-Collecting Robot
 
-[image] 
+![artifact1](artifact1.png)
 
 During Summer of 2014, I worked with a team of three others to design and construct a robot from scratch. It had to be capable of detecting and collecting several artifacts, all while navigating an obstacle course. I focused primarily on the design of the chassis and mechanical grabber, and was instrumental in making the robot the lightest and fastest in the class.
 
