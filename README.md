@@ -13,7 +13,7 @@ A video of it in action is shown below. The robot is running entirely off of the
 </center>
 
 
-Additional navigation methods were planned for the robot, such as determining when it arrived at a corner, and mapping capabilities to allow it to find its way back 'home', but our team ran out of time in the semester to implement them all.
+<!--Additional navigation methods were planned for the robot, such as determining when it arrived at a corner, and mapping capabilities to allow it to find its way back 'home', but our team ran out of time in the semester to implement them all.-->
 
 
 <!--We were inspired by a project from the Universidad del Valle, Cali, Colombia, in which they utilize a similar algorithm to detect the lines of the hallway and compute the logical way forward.
@@ -32,15 +32,15 @@ Our initial test run of the software utilized six screenshots from Google Maps' 
 
 As can be seen, the software we utilized accurately captured the terrain and buildings in the test area. After more research and development was done, we were able to utilize a drone to take images of a cliff face near UBC, as seen below.
 
-![djidrone1](djidrone1.png)
+![djidrone1](dji_drone1.png)
 
 The footage from this run allowed us to make a 3D map of the region.
 
-![djidrone2](djidrone2.png)
+![djidrone2](dji_drone2.png)
 
 Lastly, this model allowed us to produce a Digital Elevation Model of the terrain, usable for geomatics work.
 
-![djidrone3](djidrone3.png)
+![djidrone3](dji_drone3.png)
 
 This process proved to be much more accurate, flexible, and cheaper than relying on public domain elevation data or aircraft mapping runs. 3vGeomatics was very happy with our results and intended to use this process regularly in the future.
 
@@ -79,7 +79,7 @@ Below is an image of the chassis of the UAV, prior to installing the primary com
 
 ![sar1](sar1.png)
 
-Here is the completed UAV. It can be noted that we used cheap materials to make fabricating the cheap and easy. My contribution to the design were the 3D-printed components holding the propellors in place. We utilized carbon fibre rods for a light, yet sturdy connection.
+Here is the completed UAV. We opted for rapid prototyping techniques, so that we could focus primarily on the design, rather than get tied up in the fabrication process. My main contribution to this design was the propellor attachment system. I modelled the 3D-printed components, and utilized carbon fibre rods for a light, yet sturdy connection.
 
 ![sar2](sar2.png)
 
