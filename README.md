@@ -1,3 +1,13 @@
+# Project Portfolio
+
+## Location-tracking Clock
+
+In the fall of 2019, I modified a traditional mantel clock with the ability to show the locations of members of my family, as seen below.
+
+![clock1](clock1)
+
+
+
 ## Hallway-Navigating Roomba
 
 In Fall 2017, as a project for a robotics course, I worked with two others on modifying a Roomba iCreate development platform to navigate its way down a hallway, using only a camera and onboard image-processing software. 
