@@ -2,17 +2,17 @@
 
 ## Location-tracking Clock
 
-In the fall of 2019, I modified a traditional mantel clock with the ability to show the locations of members of my family, as seen below.
+In the fall of 2019, for a personal project, I modified a traditional mantel clock with the ability to show the locations of members of my family, as seen below.
 
 ![clock1](clock1.jpg)
 
-This showcased my flexibily, as I was required to involve many different aspects of engineering, from the mechanical aspect of designing a mechanism which could drive five hands independently of each other, to the electrical aspect of connecting motors, to the software side, where I utilized a Raspberry Pi in conjunction with smartphone apps to detect users' locations.
+This project showcased my flexibility when it comes to engineering. It involved many different aspects of engineering, from the mechanical design of the mechanism which could drive five hands independently, to the electrical aspect of controlling servomotors, to the software side, where I utilized a Raspberry Pi in conjunction with smartphone apps to detect users' locations.
 
-The internal mechanics heavily utilize 3D printed parts, mainly for their versitility and low cost. The custom mechanism I designed can be seen below; the five hand tiered design is clearly visible.
+The internal mechanics heavily utilize 3D printed parts, mainly for their versitility and low cost. The custom mechanism I designed can be seen below; the five hand tiered design is clearly visible. I significantly optimized the topology of this part to reduce weight, printing time, and cost. As such, the result was very light and strong, and performs its task admirably.
 
 ![clock2](clock2.jpg)
 
-
+The electronics aspect of the project is less visible, but still important. From users' smartphones, I utilize the MQTT communication framework to determine their locations on a regular basis. The clock has a list of 'zones' which it then compares user's positions with and moves the respective user's hand to the appropriate position.
 
 
 ## Hallway-Navigating Roomba
