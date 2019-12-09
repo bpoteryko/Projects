@@ -4,7 +4,14 @@
 
 In the fall of 2019, I modified a traditional mantel clock with the ability to show the locations of members of my family, as seen below.
 
-![clock1](clock1)
+![clock1](clock1.jpg)
+
+This showcased my flexibily, as I was required to involve many different aspects of engineering, from the mechanical aspect of designing a mechanism which could drive five hands independently of each other, to the electrical aspect of connecting motors, to the software side, where I utilized a Raspberry Pi in conjunction with smartphone apps to detect users' locations.
+
+The internal mechanics heavily utilize 3D printed parts, mainly for their versitility and low cost. The custom mechanism I designed can be seen below; the five hand tiered design is clearly visible.
+
+![clock2](clock2.jpg)
+
 
 
 
